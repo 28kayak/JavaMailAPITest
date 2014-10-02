@@ -1,0 +1,1 @@
+This program can send an email given a sendar's and a reciver's address only though google account. 
